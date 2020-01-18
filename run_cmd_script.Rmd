@@ -1,0 +1,5 @@
+```{r}
+cmdscript <- "./script.cmd"
+print(cmdscript)
+system(cmdscript)
+```
